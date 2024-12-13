@@ -1,4 +1,4 @@
-Alt-WebsiteMockupRepo
+WebsiteMockupRepo
 ===========
 
 # Web Design Trends
